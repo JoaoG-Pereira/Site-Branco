@@ -4,7 +4,7 @@ Publicado através do Neocities.
 
 Link: https://joaoguilherme.neocities.org/
 
-Conteúdos de terceiros utilizados
+Conteúdo de terceiros utilizado
 
 ícone: FlatIcon: https://www.flaticon.com/authors/smashicons
 
