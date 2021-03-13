@@ -5,4 +5,5 @@ Link: https://joaoguilherme.neocities.org/
 
 Conteúdos de terceiros utilizados
 ícone: FlatIcon: https://www.flaticon.com/authors/smashicons
+
 Efeitos: Hover.css - https://ianlunn.github.io/Hover/
